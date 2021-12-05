@@ -1,0 +1,5 @@
+## About me
+
+Hello 
+
+My name is Het Patel, and I am a second student at Laurier in the Brantford campus. I am in the user experience design program. On the side of my university life, I am a small business owner for a stationary business that Sells stickers, art prints and other items. I started this business a month before university started, and throughout learn I have also been running my business on Etsy. My company focuses a lot on artwork that I create myself. Growing up, I loved making art and doing new creations. I loved to play different sports and try new things, I played Ultimate frisbee during high school, and I want to continue playing in university on the Laurier team. I am also part of two excellent teams, the first one being UXDSA ( user experience design student association) for this club; I am the treasurer and OGSA (Ontario Gujarati Student association) for this team I am a graphic designer. Click on the link. I made a video during the pandemic using my art skill; the video shows the process of drawing the two cultures that I am. As I was born in India and moved here when I was 2 and raised in Canada, this video shows who I am. 

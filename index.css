@@ -1,0 +1,134 @@
+
+@import url();
+.WebContainer {
+    width: 100%;
+    height: auto;
+}
+
+.articles {
+    width: 90%;
+    /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
+
+:root {
+    --header-background-color: #D4A373;
+    --header-foreground-color: sliver;
+    --footer-background-color: black;
+    --nav-background-color: white;
+    --nav-foreground-color: red;
+}
+
+header {
+    font-family: Abril Fatface, cursive;
+    color: var(--header-foreground-color);
+    background: var(- -header-background-color);
+}
+
+nav.bg-dark {
+
+    color: var(--header-foreground-color);
+    background-color: var(--header-background-color) !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #572f07;
+}
+
+
+
+
+
+
+
+
+/*About me page*/
+.box1 {
+    width: 860px;
+    height: 700px;
+    margin: 13px;
+    padding: 20px;
+}
+.box2 {
+    width: 500x;
+    height: 800px;
+    margin: 13px;
+    padding: 20px;
+/*Graphic Design sections*/
+}
+.box3 {
+    padding: 20px;
+    width: 545px;
+    height: 545px; 
+    margin: 10px;
+    background-color: aliceblue;
+}
+.box4 {
+    padding: 20px;
+    width: 545px;
+    height: 545px; 
+    margin: 10px;
+    background-color: aliceblue;
+}
+.box5 {
+    padding: 20px;
+    width: 545px;
+    height: 545px; 
+    margin: 10px;
+    background-color: aliceblue;
+}
+/*UX Sections*/
+.box6 {
+    padding: 20px;
+    width: 545px;
+    height: 545px; 
+    margin: 10px;
+    background-color: aliceblue;
+
+}
+
+.box7 {
+    padding: 20px;
+    width: 545px;
+    height: 545px; 
+    margin: 10px;
+    background-color: aliceblue;
+   
+
+}
+
+.box8 {
+    padding: 20px;
+    width: 545px;
+    height: 545px; 
+    margin: 10px;
+    background-color: aliceblue;
+}
+/*about me seaction*/
+.grid-container {
+    display: grid;
+    grid-template-columns: 0.3fr 3fr;
+    grid-gap: 20px grid-auto-rows 30px;
+    gap: 23px 10em;
+}
+/*Graphic Design seaction*/
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 0.3fr 0.3fr 0.3fr;
+    grid-gap: 20px grid-auto-rows 30px;
+    gap: 10.5px 10.5em;
+}
+/*UX seaction*/
+.grid-container3 {
+    display: grid;
+    grid-template-columns: 0.3fr 0.3fr 0.3fr;
+    grid-gap: 20px grid-auto-rows 30px;
+    gap: 10.5px 10.5em;
+
+}
+
+h1 {
+
+    text-align: center;
+}
